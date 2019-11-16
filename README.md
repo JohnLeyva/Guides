@@ -2,4 +2,5 @@
 
 This content is comming from GitHub
 
-<img src='https://docascode.azurewebsites.net/redirect/Me --> All : Hi' />
+![Example diagram](https://docascode.azurewebsites.net/redirect/Me%20-->%20All%20:%20Hi)
+
